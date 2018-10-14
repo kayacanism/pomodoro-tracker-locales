@@ -20,7 +20,7 @@ msgstr ""
 "Generated-By: Babel 2.5.1\n"
 
 msgid "The Pomodoro is running"
-msgstr "Pomodoro devam ediyor"
+msgstr "Pomodoro çalışıyor..."
 
 msgid "year"
 msgid_plural "years"
